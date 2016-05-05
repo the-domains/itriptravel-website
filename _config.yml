@@ -2,6 +2,7 @@ name: ItripTravel Website
 favicon: null
 layout_spectrum: 0.602073862683028
 typography_spectrum: 0.4986001483630389
+title: Itrip Travel
 cta:
   domain: null
   bucket: null
