@@ -1,0 +1,28 @@
+name: ItripTravel Website
+favicon: null
+layout_spectrum: 0.602073862683028
+typography_spectrum: 0.4986001483630389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8549683475866914
+  lightness: 0.1599119135644287
+  saturation: 0.17544107139110565
+  rhythmicContrast: 0.05227192072197795
+purpose: []
